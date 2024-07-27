@@ -12,10 +12,7 @@ Real-Time Feedback: Offers instant suggestions for improving password complexity
 Multi-Language Support: Provides password checks and feedback in multiple languages. <br />
 User-Friendly Interface: Features a simple and intuitive interface that is easy for users to navigate. <br />
 # Implementation
-Frontend: Developed using HTML, CSS, and JavaScript to create an interactive and responsive user experience. <br />
-Backend: Utilizes Python for its robust string handling and cryptographic libraries. <br />
-Database: Employs SQLite to store common passwords and dictionary words for cross-referencing. <br />
-API: Provides an API for integrating the password checker into other applications and services. <br />
+Programming Language: Utilizes Python for its robust string handling and cryptographic libraries. <br />
 # Security Considerations
 Encryption: All data transmission is secured using HTTPS to prevent interception. <br />
 Anonymity: Ensures user privacy by not storing any passwords entered into the checker. <br />
